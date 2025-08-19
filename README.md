@@ -41,10 +41,11 @@ Understanding these commands is crucial :
 - `ss` (swap both): Simultaneously applies `sa` and `sb`.
 - `pa` (push a): Moves the top element from stack `b` to stack `a`.
 - `pb` (push b): Moves the top element from stack `a` to stack `b`.
+<br>
 
 ## ⚙️ Usage
 
-Push_swap can be executed with two different way, for even result.
+Push_swap can be executed with two differents way, for even result.
 
 > [!WARNING]
 > Invalid input (e.g., non-integer values, duplicates, inputs outside of a regular i32 limits) should result in an appropriate error message without causing undefined behavior.
